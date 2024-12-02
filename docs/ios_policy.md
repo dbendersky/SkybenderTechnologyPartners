@@ -46,7 +46,7 @@ All app preferences and custom configurations are stored locally on your device 
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-[Your Contact Information]
+dave@skybendertechnologypartners.com
 
 ## App Store Data Usage
 
