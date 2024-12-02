@@ -7,13 +7,16 @@ Welcome to Skybender Technology Partners, a multinational technology company spe
 Skybender Technology Partners operates through two primary business entities to serve our global customer base:
 
 ### United States Operations
+
 **SKYBENDER TECHNOLOGY PARTNERS LLC**
+
 - **Business Type:** WA LIMITED LIABILITY COMPANY
 - **UBI Number:** 604 791 817
 
-
 ### New Zealand Operations
+
 **SKYBENDER HOLDINGS LIMITED**
+
 - **NZBN:** 9429051745110
 - **Business Type:** NZ Limited Company
 
