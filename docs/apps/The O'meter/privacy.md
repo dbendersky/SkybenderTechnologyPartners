@@ -1,7 +1,7 @@
 
 # Privacy Policy for The O'meter
 
-Last updated: December 1, 2024
+Last updated: December 5, 2024
 
 ## Introduction
 
